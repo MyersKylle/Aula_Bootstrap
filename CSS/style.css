@@ -1,0 +1,23 @@
+.navbar {
+    background-color: aliceblue
+}
+
+.quem-somos {
+    background-color: rgb(9, 133, 182);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
